@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour
+public class Cube : MonoBehaviour
 {
     private bool isGameStarted = false;
     private float rotationSpeed = 100f;
